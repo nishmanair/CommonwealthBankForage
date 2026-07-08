@@ -20,7 +20,6 @@ This repository serves a dual purpose:
 1. **Frontend Architecture:** A fully responsive, semantic web interface utilizing modern styling constraints (high-contrast ratios, specific typography tokens, and structured responsive layouts) built entirely using HTML5 and CSS3.
 2. **Infrastructure Engineering:** A strategic security implementation plan that prepares this application for enterprise cloud hosting, ensuring readiness for future extensions like customer dashboards, data capture web-forms, and authenticated portals.
 
-------------
 ## Local Development & Quick Start
 To view or modify the website locally on your machine, follow these instructions:
 
@@ -30,8 +29,8 @@ cd financial-cybersecurity-site
 
 2. Launch the Frontend:
 Because the project uses standard web technologies, you can open index.html directly inside any modern web browser:
-# On macOS
+**On macOS**
 open index.html
 
-# On Windows
+**On Windows**
 start index.html
