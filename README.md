@@ -23,14 +23,3 @@ This repository serves a dual purpose:
 ## Local Development & Quick Start
 To view or modify the website locally on your machine, follow these instructions:
 
-1. Clone the Repository:
-git clone [https://github.com/your-username/financial-cybersecurity-site.git](https://github.com/your-username/financial-cybersecurity-site.git)
-cd financial-cybersecurity-site
-
-2. Launch the Frontend:
-Because the project uses standard web technologies, you can open index.html directly inside any modern web browser:
-**On macOS**
-open index.html
-
-**On Windows**
-start index.html
